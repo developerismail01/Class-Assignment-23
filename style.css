@@ -1,0 +1,79 @@
+.ismail {
+  width: 1024px;
+  margin: auto;
+}
+
+.main_page .ismail .border {
+  border: 5px solid rgba(58, 55, 55, 0.856);
+}
+
+.main_page .ismail .border .inner_section .image {
+  width: 150px;
+}
+
+.main_page .ismail .border .inner_section .image img {
+  width: 100%;
+}
+
+.main_page .ismail .border .inner_section .text h2 {
+  font-weight: 600;
+  padding: 10px 0;
+}
+
+.main_page .ismail .border .inner_section .text p {
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.main_page .ismail .border .inner_section .text .form {
+  border: 2px solid rgba(218, 214, 214, 0.938);
+  padding: 4px 8px;
+  font-size: 18px;
+  border-radius: 5px;
+  margin-right: 20px;
+  text-transform: capitalize;
+}
+
+.main_page .ismail .border .inner_section .text .email {
+  width: 90%;
+}
+
+.main_page .ismail .border .inner_section .text .footer_btn a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.main_page .ismail .border .inner_section .text .footer_btn .bttn {
+  margin-left: 230px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.main_page .ismail .border .imagee {
+  text-align: center;
+}
+
+.main_page .ismail .border .imagee img {
+  margin-top: 170px;
+}
+
+.main_page .ismail .border .imagee h6 {
+  padding: 0px 50px;
+  font-weight: 600;
+  color: rgba(61, 58, 58, 0.884);
+}
+
+.main_page .ismail .footer_section .seletor {
+  border: none;
+}
+
+.main_page .ismail .footer_section .spann {
+  text-align: right;
+}
+
+.main_page .ismail .footer_section .spann span {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0 10px;
+}
+/*# sourceMappingURL=style.css.map */
